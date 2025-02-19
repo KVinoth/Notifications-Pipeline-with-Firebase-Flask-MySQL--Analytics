@@ -7,9 +7,9 @@ and data analytics. It covers the process of **generating, storing, and analyzin
 ---
 
 ## **Workflow**
-- 1.Send Notifications 📢 – Notifications are generated and sent using Firebase Cloud Messaging through the Firebase Admin SDK, mimicking the functionality of Instagram-like notifications.
-- 2.Store Notifications 💾 – Notifications are saved to a MySQL database via a Flask API, making them easily accessible for further processing.
-- 3.Analyze Notifications 📊 – The stored notifications are analyzed to extract trends, patterns, and insights.
+1. Send Notifications 📢 – Notifications are generated and sent using Firebase Cloud Messaging through the Firebase Admin SDK, mimicking the functionality of Instagram-like notifications.
+2. Store Notifications 💾 – Notifications are saved to a MySQL database via a Flask API, making them easily accessible for further processing.
+3. Analyze Notifications 📊 – The stored notifications are analyzed to extract trends, patterns, and insights.
 
 ---
 
