@@ -18,7 +18,7 @@ and data analytics. It covers the process of **generating, storing, and analyzin
 
 Notifications-Pipeline
 │── Python   
-│    │── backend
+│   │── backend
 │       ├── app_n.py                # Flask API for storing notifications in MySQL       
 │       ├── send_notification.py    # Sends notifications via Firebase Admin SDK       
 │
@@ -38,30 +38,30 @@ Notifications-Pipeline
 
 
 ## **Technologies Used**
-Python 🐍 – Backend API built with Flask & Firebase Admin SDK
-Firebase 🔥 – Cloud messaging platform for sending push notifications
-MySQL 🛢️ – Database used for storing notifications
-JavaScript 📜 – Frontend logic and Service Worker for handling background notifications
+- **Python 🐍** – Backend API built with Flask & Firebase Admin SDK
+- **Firebase 🔥** – Cloud messaging platform for sending push notifications
+- **MySQL 🛢️** – Database used for storing notifications
+- **JavaScript 📜** – Frontend logic and Service Worker for handling background notifications
 
 ---
 
 ## **Key Features**
-✅ Push notifications with Firebase Cloud Messaging for real-time updates
-✅ Flask API to handle the backend integration
-✅ MySQL database for reliable storage of notification data
-✅ Service Worker implementation for managing background notifications in the browser
-✅ Dummy data integration to facilitate efficient analytics and testing
+- ✅ **Push notifications with Firebase Cloud Messaging for real-time updates**
+- ✅ **Flask API to handle the backend integration**
+- ✅ **MySQL database for reliable storage of notification data**
+- ✅ **Service Worker implementation for managing background notifications in the browser**
+- ✅ **Dummy data integration to facilitate efficient analytics and testing**
 
 ---
 
 ## **Topics Covered**
-✅ Flask API Development
-✅ Firebase Cloud Messaging Integration
-✅ MySQL Database Design & Management
-✅ Foreground & Background Notification Handling
-✅ Frontend Integration with JavaScript & Service Workers
-✅ Data Storage and Analysis Setup for Insights
+- ✅ **Flask API Development**
+- ✅ **Firebase Cloud Messaging Integration**
+- ✅ **MySQL Database Design & Management**
+- ✅ **Foreground & Background Notification Handling**
+- ✅ **Frontend Integration with JavaScript & Service Workers**
+- ✅ **Data Storage and Analysis Setup for Insights**
 
 ---
 
->Note: This project provides a complete pipeline for notification management, combining backend, frontend, and data storage in a scalable way, ready for future analytics and enhancements.
+>**Note**: This project provides a complete **pipeline** for notification management, combining **backend**, **frontend**, and data **storage** in a scalable way, ready for **future analytics** and enhancements.
